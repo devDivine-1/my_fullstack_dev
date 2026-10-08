@@ -29,3 +29,4 @@ The frontend is served by a small Node.js/Express container. Its static files ar
 GitHub Actions compiles the Python source, installs frontend dependencies, validates the Compose file, and builds both application images on pushes and pull requests that touch `my_app`.
 # my-APP
 # my-APP
+# my_fullstack_dev
