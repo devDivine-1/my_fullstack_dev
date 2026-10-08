@@ -30,3 +30,4 @@ GitHub Actions compiles the Python source, installs frontend dependencies, valid
 # my-APP
 # my-APP
 # my_fullstack_dev
+# my_fullstack_dev
